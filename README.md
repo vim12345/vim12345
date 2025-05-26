@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/@65vimal" target="blank"><img src="https://img.shields.io/twitter/follow/@65vimal?logo=twitter&style=for-the-badge" alt="@65vimal" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning  **Data Scientist** & **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://vim12345.github.io/VimalKumar_Portfolio/](https://vim12345.github.io/VimalKumar_Portfolio/)
 
